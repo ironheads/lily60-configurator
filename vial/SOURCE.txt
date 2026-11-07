@@ -1,0 +1,2 @@
+Upstream source: https://github.com/tcyeee/vialite/tree/6a3c61c8f34adb08f0e11e4294245890f3371fd8
+Corresponding Lily60 frontend source: source.tar.gz
